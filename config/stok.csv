@@ -1,0 +1,13 @@
+Jenis,Stok_Mentah,Stok_Jadi,Ukuran,Catatan
+Bahan,100,0,-,-
+Produk,0,50,S,-
+Produk,0,50,M,-
+Produk,0,50,L,-
+Produk,0,50,XL,-
+Produk,0,50,XXL,-
+Kemasan,0,10,S,Stok awal kemasan
+Kemasan,0,10,M,Stok awal kemasan
+Kemasan,0,10,L,Stok awal kemasan
+Kemasan,0,10,XL,Stok awal kemasan
+Kemasan,0,10,XXL,Stok awal kemasan
+Lain-lain,0,0,-,-
